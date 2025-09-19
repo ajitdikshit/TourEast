@@ -1,15 +1,16 @@
 {
   "name": "TOUREAST",
   "short_name": "TOUREAST",
-  "start_url": "/toureast/",
+  "start_url": "/TourEast/",
   "display": "standalone",
   "background_color": "#0f1724",
   "theme_color": "#1e293b",
   "icons": [
     {
-      "src": "/toureast/icon.png",
+      "src": "/TourEast/icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ]
+
 }
